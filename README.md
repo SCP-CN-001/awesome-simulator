@@ -47,11 +47,11 @@ At the same time, we recognize and respect the efforts of developers working on 
 
 - **CARLA**: An Open Urban Driving Simulator `CoRL 2017` [[paper](https://proceedings.mlr.press/v78/dosovitskiy17a.html)] [[code](https://github.com/carla-simulator/carla)]  [[doc](https://carla.readthedocs.io/en/latest/)]
 
+    Minimal requirements: 8GB RAM, 600GB disk space, Ubuntu 16.04+, Python 3.6+
+
     ![GitHub last commit](https://img.shields.io/github/last-commit/carla-simulator/carla)
     ![GitHub Tag](https://img.shields.io/github/v/tag/carla-simulator/carla?color=%236e8b74)
     ![GitHub Repo stars](https://img.shields.io/github/stars/carla-simulator/carla?style=flat)
-
-    Minimal requirements: 8GB RAM, 600GB disk space, Ubuntu 16.04+, Python 3.6+
 
 - **HighwayEnv**: An Environment for Autonomous Driving Decision-Making [[code](https://github.com/Farama-Foundation/HighwayEnv)] [[doc](https://highway-env.farama.org/)]
 
@@ -61,11 +61,11 @@ At the same time, we recognize and respect the efforts of developers working on 
 
 - **SUMO**: Simulation of Urban Mobility: an Overview `SIMUL 2011` [[paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=685ee67cdfbbb8c9d6c5163849c0399ed4936149)] [[code](https://github.com/eclipse-sumo/sumo)] [[doc](https://sumo.dlr.de/docs/index.html)]
 
+    Minimal requirements: 8GB RAM, a 4-core processor
+
     ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-sumo/sumo)
     ![GitHub Tag](https://img.shields.io/github/v/tag/eclipse-sumo/sumo?color=%236e8b74)
     ![GitHub Repo stars](https://img.shields.io/github/stars/eclipse-sumo/sumo?style=flat)
-
-    Minimal requirements: 8GB RAM, a 4-core processor
 
 - **MetaDrive**: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning `T-PAMI` [[paper](https://ieeexplore.ieee.org/abstract/document/9829243)] [[code](https://github.com/metadriverse/metadrive)] [[doc](https://metadrive-simulator.readthedocs.io/en/latest/)]
 
@@ -120,7 +120,6 @@ At the same time, we recognize and respect the efforts of developers working on 
     ![GitHub Repo stars](https://img.shields.io/github/stars/Tsinghua-MARS-Lab/intersim?style=flat)
 
 - **Nocturne**: A Scalable Driving Benchmark for Bringing Multi-agent Learning One Step Closer to the Real World `NeurIPS 2022` [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/191e9e721a2748a860714fb23aaf7c5d-Abstract-Datasets_and_Benchmarks.html)] [[code](https://github.com/facebookresearch/nocturne)] [[doc](https://github.com/facebookresearch/nocturne/tree/main/docs)]
-![GitHub Tag](https://img.shields.io/github/v/tag/isaac-sim/isaacsim?color=%236e8b74)
 
     ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/nocturne)
     ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/nocturne?style=flat)
