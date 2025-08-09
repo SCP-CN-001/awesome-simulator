@@ -25,6 +25,12 @@ At the same time, we recognize and respect the efforts of developers working on 
 
 ## Awesome robotics simulators
 
+- **MuJoCo**: A physics engine for model-based control." `IROS 2012`. [[paper](https://ieeexplore.ieee.org/abstract/document/6386109)] [[code](https://github.com/google-deepmind/mujoco)] [[doc](https://mujoco.readthedocs.io/en/stable/overview.html)]
+
+    ![GitHub last commit](https://img.shields.io/github/last-commit/google-deepmind/mujoco)
+    ![GitHub Tag](https://img.shields.io/github/v/tag/google-deepmind/mujoco?color=%236e8b74)
+    ![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=flat)
+
 - **Webots**: Professional Mobile Robot Simulation [[paper](https://arxiv.org/abs/cs/0412052)] [[code](https://github.com/cyberbotics/webots)] [[doc](https://cyberbotics.com/)]
 
     ![GitHub last commit](https://img.shields.io/github/last-commit/cyberbotics/webots)
@@ -43,9 +49,15 @@ At the same time, we recognize and respect the efforts of developers working on 
     ![GitHub Tag](https://img.shields.io/github/v/tag/gazebosim/gz-sim?color=%236e8b74)
     ![GitHub Repo stars](https://img.shields.io/github/stars/gazebosim/gz-sim?style=flat)
 
+- **PyBullet**: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning [[code](https://github.com/bulletphysics/bullet3)] [[doc](https://pybullet.org/wordpress/index.php/forum-2/)]
+
+    ![GitHub last commit](https://img.shields.io/github/last-commit/bulletphysics/bullet3)
+    ![GitHub Tag](https://img.shields.io/github/v/tag/bulletphysics/bullet3?color=%236e8b74)
+    ![GitHub Repo stars](https://img.shields.io/github/stars/bulletphysics/bullet3?style=flat)
+
 ## Awesome driving simulators
 
-- **CARLA**: An Open Urban Driving Simulator `CoRL 2017` [[paper](https://proceedings.mlr.press/v78/dosovitskiy17a.html)] [[code](https://github.com/carla-simulator/carla)]  [[doc](https://carla.readthedocs.io/en/latest/)]
+- **CARLA**: An Open Urban Driving Simulator `CoRL 2017` [[paper](https://proceedings.mlr.press/v78/dosovitskiy17a.html)] [[code](GitHub - carla-simulator/carla: Open-source simulator for autonomous driving research.)]  [[doc](https://carla.readthedocs.io/en/latest/)]
 
     Minimal requirements: 8GB RAM, 600GB disk space, Ubuntu 16.04+, Python 3.6+
 
@@ -80,6 +92,12 @@ At the same time, we recognize and respect the efforts of developers working on 
 
 ## Other robotics simulators
 
+- OpenRAVE: Open Robotics Automation Virtual Environment: An environment for testing, developing, and deploying robotics motion planning algorithms. [[paper](https://www.ri.cmu.edu/pub_files/pub4/diankov_rosen_2008_2/diankov_rosen_2008_2.pdf)] [[code](https://github.com/rdiankov/openrave)] [[doc](https://www.openrave.org/docs/latest_stable/)]
+
+    ![GitHub last commit](https://img.shields.io/github/last-commit/rdiankov/openrave)
+    ![GitHub Tag](https://img.shields.io/github/v/tag/rdiankov/openrave?color=%236e8b74)
+    ![GitHub Repo stars](https://img.shields.io/github/stars/rdiankov/openrave?style=flat)
+
 ## Other driving simulators
 
 > This section is sorted by the initial release date. Simulators whose **core components** haven’t been updated in over a year will be moved from the *Awesome* section to here.
@@ -88,13 +106,13 @@ At the same time, we recognize and respect the efforts of developers working on 
 
 ### 2024
 
-- **Vista**: A Generalizable Driving World Model with High Fidelity and Versatile Controllability `NeurIPS 2024` [[paper](https://arxiv.org/abs/2405.17398)] [[code](https://github.com/OpenDriveLab/Vista)] [[website](https://opendrivelab.com/Vista/)]
+- **Vista**: A Generalizable Driving World Model with High Fidelity and Versatile Controllability `NeurIPS 2024` [[paper](https://arxiv.org/abs/2405.17398)] [[code](GitHub - OpenDriveLab/Vista: [NeurIPS 2024] A Generalizable World Model for Autonomous Driving)] [[website](https://opendrivelab.com/Vista/)]
 
     ![GitHub last commit](https://img.shields.io/github/last-commit/OpenDriveLab/vista)
     ![GitHub Repo stars](https://img.shields.io/github/stars/opendrivelab/vista?style=flat)
 
 
-- **Tactics2D**: A Highly Modular and Extensible Simulator for Driving Decision-Making `T-IV` [[paper](https://ieeexplore.ieee.org/abstract/document/10561544)] [[code](https://github.com/WoodOxen/tactics2d)] [[doc](https://tactics2d.readthedocs.io/en/latest/)]
+- **Tactics2D**: A Highly Modular and Extensible Simulator for Driving Decision-Making `T-IV` [[paper](https://ieeexplore.ieee.org/abstract/document/10561544)] [[code](GitHub - WoodOxen/tactics2d: Tactics2D: A Reinforcement Learning Environment Library with Generative)] [[doc](https://tactics2d.readthedocs.io/en/latest/)]
 
     ![GitHub last commit](https://img.shields.io/github/last-commit/woodoxen/tactics2d)
     ![GitHub Tag](https://img.shields.io/github/v/tag/woodoxen/tactics2d?color=%236e8b74)
@@ -177,7 +195,7 @@ At the same time, we recognize and respect the efforts of developers working on 
     ![GitHub last commit](https://img.shields.io/github/last-commit/cityflow-project/cityflow)
     ![GitHub Repo stars](https://img.shields.io/github/stars/cityflow-project/cityflow?style=flat)
 
-- MACAD: Multi-agent Connected Autonomous Driving using Deep Reinforcement Learning `IJCNN 2019` [[paper](https://ieeexplore.ieee.org/abstract/document/9207663)] [[code](https://github.com/praveen-palanisamy/macad-gym)] [[doc](https://github.com/praveen-palanisamy/macad-gym?tab=readme-ov-file#getting-started)]
+- MACAD: Multi-agent Connected Autonomous Driving using Deep Reinforcement Learning `IJCNN 2019` [[paper](https://ieeexplore.ieee.org/abstract/document/9207663)] [[code](GitHub - praveen-palanisamy/macad-gym: Multi-Agent Connected Autonomous Driving (MACAD) Gym environm)] [[doc](https://github.com/praveen-palanisamy/macad-gym?tab=readme-ov-file#getting-started)]
 
     ![GitHub last commit](https://img.shields.io/github/last-commit/praveen-palanisamy/macad-gym)
     ![GitHub Tag](https://img.shields.io/github/v/tag/praveen-palanisamy/macad-gym?color=%236e8b74)
@@ -235,6 +253,20 @@ At the same time, we recognize and respect the efforts of developers working on 
 
 ## Survey about simulators
 
+Li, Yueyuan, et al. "Choose your simulator wisely: A review on open-source simulators for autonomous driving." *IEEE Transactions on Intelligent Vehicles* 9.5 (2024): 4861-4876.
+
+Zhou, Jixiang, et al. "A survey on autonomous driving system simulators." *2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)*. IEEE, 2022.
+
+Kaur, Prabhjot, et al. "A survey on simulators for testing self-driving cars." *2021 Fourth International Conference on Connected and Autonomous Driving (MetroCAD)*. IEEE, 2021.
+
+Holen, Martin, Kristian Knausgård, and Morten Goodwin. "An evaluation of autonomous car simulators and their applicability for supervised and reinforcement learning." *International Conference on Intelligent Technologies and Applications*. Cham: Springer International Publishing, 2021.
+
+Bruck, Lucas, Bruce Haycock, and Ali Emadi. "A review of driving simulation technology and applications." *IEEE Open Journal of Vehicular Technology 2* (2020): 1-16.
+
+Afzal, Afsoon, et al. "A study on the challenges of using robotics simulators for testing." *arXiv preprint arXiv:2004.07368* (2020).
+
+Chao, Qianwen, et al. "A survey on visual traffic simulation: Models, evaluations, and applications in autonomous driving." *Computer Graphics Forum*. Vol. 39. No. 1. 2020.
+
 ## Citation
 
 If you find the list about driving simulators helpful for your work, please cite
@@ -254,7 +286,4 @@ If you find the list about driving simulators helpful for your work, please cite
 You’re welcome to suggest simulators that meet the following criteria for inclusion in this repository:
 
 - Designed for robotics or autonomous driving tasks
-- Open-source or freely accessible
-- Either has over 100 GitHub stars or is known to have over 100 active users
-
-Contributions can be submitted via pull requests or by opening issues. Submissions are typically reviewed within a week.
+- Open-source
